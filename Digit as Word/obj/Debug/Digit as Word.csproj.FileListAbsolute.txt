@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Digit as Word\bin\Debug\Digit as Word.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Digit as Word\bin\Debug\Digit as Word.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Digit as Word\bin\Debug\Digit as Word.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Digit as Word\obj\Debug\Digit as Word.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Digit as Word\obj\Debug\Digit as Word.pdb

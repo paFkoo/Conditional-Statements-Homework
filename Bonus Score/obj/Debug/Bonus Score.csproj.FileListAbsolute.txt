@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Bonus Score\bin\Debug\Bonus Score.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Bonus Score\bin\Debug\Bonus Score.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Bonus Score\bin\Debug\Bonus Score.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Bonus Score\obj\Debug\Bonus Score.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Bonus Score\obj\Debug\Bonus Score.pdb

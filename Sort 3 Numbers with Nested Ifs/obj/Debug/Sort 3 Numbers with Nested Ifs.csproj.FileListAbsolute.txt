@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Sort 3 Numbers with Nested Ifs\bin\Debug\Sort 3 Numbers with Nested Ifs.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Sort 3 Numbers with Nested Ifs\bin\Debug\Sort 3 Numbers with Nested Ifs.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Sort 3 Numbers with Nested Ifs\bin\Debug\Sort 3 Numbers with Nested Ifs.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Sort 3 Numbers with Nested Ifs\obj\Debug\Sort 3 Numbers with Nested Ifs.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Sort 3 Numbers with Nested Ifs\obj\Debug\Sort 3 Numbers with Nested Ifs.pdb

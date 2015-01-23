@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Beer Time\bin\Debug\Beer Time.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Beer Time\bin\Debug\Beer Time.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Beer Time\bin\Debug\Beer Time.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Beer Time\obj\Debug\Beer Time.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Beer Time\obj\Debug\Beer Time.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Beer Time\obj\Debug\Beer Time.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Multiplication Sign\bin\Debug\Multiplication Sign.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Multiplication Sign\bin\Debug\Multiplication Sign.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Multiplication Sign\bin\Debug\Multiplication Sign.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Multiplication Sign\obj\Debug\Multiplication Sign.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Multiplication Sign\obj\Debug\Multiplication Sign.pdb

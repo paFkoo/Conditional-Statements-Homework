@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Play with Int, Double and String\bin\Debug\Play with Int, Double and String.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Play with Int, Double and String\bin\Debug\Play with Int, Double and String.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Play with Int, Double and String\bin\Debug\Play with Int, Double and String.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Play with Int, Double and String\obj\Debug\Play with Int, Double and String.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\Play with Int, Double and String\obj\Debug\Play with Int, Double and String.pdb

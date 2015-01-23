@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\The Biggest of Five Numbers\bin\Debug\The Biggest of Five Numbers.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\The Biggest of Five Numbers\bin\Debug\The Biggest of Five Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\The Biggest of Five Numbers\bin\Debug\The Biggest of Five Numbers.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\The Biggest of Five Numbers\obj\Debug\The Biggest of Five Numbers.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\The Biggest of Five Numbers\obj\Debug\The Biggest of Five Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 5\Лекция 5 Solution\The Biggest of Five Numbers\obj\Debug\The Biggest of Five Numbers.pdb
